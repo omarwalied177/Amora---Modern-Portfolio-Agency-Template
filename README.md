@@ -1,0 +1,1 @@
+A sleek, fully responsive HTML/CSS template designed for creative professionals, agencies, or personal portfolios. Features a modern UI with interactive elements and comprehensive sections to showcase work, skills, and services.
